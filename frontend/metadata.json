@@ -1,0 +1,7 @@
+{
+  "name": "Springwell: AI Groundwater Insights",
+  "description": "An AI-powered dashboard for analyzing India's groundwater data. Features an interactive AI assistant (in English and Tamil), data visualizations, and maps to provide clear, actionable insights for water management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
